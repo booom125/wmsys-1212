@@ -1,2 +1,2 @@
 # wmsys-1212
-Haier warehouse system
+Haier warehouse manage system
